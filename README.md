@@ -1,58 +1,58 @@
-# KYC Extension
+KYC Extension Privacy Policy
+Effective date: May 22, 2018
 
-Privacy Policy
-Georgi Durev built the KYC app as a Free app. This SERVICE is provided by Georgi Durev at no cost and is intended for use as is.
+Thank you for using KYC Extension! We take your privacy extremely seriously and would like to describe how we collect, use and protect your information when you access our website(s), products, services and applications (collectively, the “Services”).
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+What does this Privacy Policy cover?
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information in order to make our Services available to you, to contact you, and to better understand how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+We do not knowingly collect or solicit personal information from anyone under the age of 16. If you are under 16, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible. If you believe that a child under 16 may have provided us personal information, please contact us at privacy@KYC Extension.com.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at KYC unless otherwise defined in this Privacy Policy.
+Will KYC Extension ever change this Privacy Policy?
+We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but if we do, we will bring it to your attention by placing a notice in the KYC Extension app on https://app.KYC Extension.com, and/or by sending you an email, and/or by some other means. Your use of the Services after any changes to the Privacy Policy have been posted will be considered to indicate your acceptance of the changes.
 
-Information Collection and Use
+What Information does KYC Extension Collect?
+Information You Provide to Us
+We receive and store any information you knowingly provide to us. When you create a new account to use the Services we will solicit your consent to connect your Google account to your new KYC Extension account (using Google’s OAuth authentication method), thereby providing us with access to your Google account, including but not limited to email, Contacts, and Calendar. Although the OAuth authentication provides broad access to your Google account, KYC Extension accesses and stores a subset of data from your Google account, including name, email address, calendar content, contacts, and company domain directory, to provide you with our Services. During email composition, we temporarily store the content of your draft email message (however once the message is sent, draft content is transferred to your Gmail account and stored on Google’s servers, not KYC Extension’s). KYC Extension stores the email body in the following contexts: when you create an email draft and the message remains unsent; when you create a Sequence or Template in KYC Extension; when you share an email via a share link; and when you enable people in your organization to view your messages in the Live Feed.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to username, password. The information that I request will be retained on your device and is not collected by me in any way.
+You can limit the amount of Personal Information transferred to us by being sure to complete and send your draft email messages, or by deleting any unsent drafts if you decide not to send them, or by refraining from using the features listed above in which we store the email body, or other features in which we notify you that we store the email body. In addition, when you send email using the Services we collect the recipient’s name, email address and the email subject line so that we can display that information in your Live Feed in KYC Extension and for debugging purposes. If you are using open, click, and download tracking, KYC Extension collects the recipient’s device type and IP address (in order to provide you with the recipient’s approximate location when the message is opened), along with the recipient’s activities (for example: opens, clicks, downloads). For recipients outside the European Union (“EU”), KYC Extension uses these activities data to provide Recommended Send Times, which indicate the times of day when the recipient has been active with KYC Extension emails in the past. KYC Extension does not provide Recommended Send Times for recipients within the EU.
 
-The app does use third party services that may collect information used to identify you.
+In keeping with standard online privacy practices, users should not include any highly sensitive information (such as social security numbers, financial information, or “protected health information” (as that term is defined by the Health Insurance Portability & Accountability Act)) in any emails so that such data does not transfer to our servers (even if only temporarily). For the use of our Services in a HIPAA compliant environment, please see “Industry-based Compliance” section below.
 
-Link to privacy policy of third party service providers used by the app
+In addition, we collect Personal Information you submit to us, for example by completing a form on www.KYC Extension.com. In that case, we may communicate with you, for example by calling you at the phone number you provide, sending you promotional email offers, or emailing you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps enhance our engagement with you and generally improve our Services. If you do not want to receive communications from us, please indicate your preference by sending an email to privacy@KYC Extension.com.
 
-Google Chrome Extensions
+Information Collected Automatically
+Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or feature you requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. We may use this data to customize content for you that we think you might like, based on your usage patterns, and generally to improve the Services. For more information, please visit our Cookie Policy here: https://KYC Extension.com/legal/cookie-policy/.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Information Collected From Other Websites and Do Not Track Policy
+Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services. Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience. Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites. Our Services do not support Do Not Track requests at this time, which means that we may collect information about your online activity both while you are using the Services and after you leave our Services. Do Not Track signals are set on a browser-by-browser basis, so you must set them on every browser you use if you do not wish to be tracked.
 
-Cookies
+Third Party Analytics Services
+We use third party analytics services in order to better understand user engagement with the Services. When a user browses or uses the Services, these third party analytics services may collect the user’s IP address, browser type, and approximate location (based on the IP address). They may also use web logs or web beacons and may set and access cookies on your computer or other device. In order to refine our understanding of user engagement, we provide these services with a user’s name and email address (which we collected as part of the user’s account registration process).
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Does KYC Extension Share Personal Information?
+We neither rent nor sell your Personal Information to anyone. However, we may share your Personal Information with third parties as described in this section:
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Agents and vendors: We employ other companies and people to perform tasks on our behalf and need to share your information with them, including in some cases the Personal Information you have provided to us, in order to make the Services available to you. For example, we may use third party hosting providers or software developers to help implement and maintain the Services. However, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
 
-Service Providers
+Business Transfers: If we are involved in a reorganization, merger, acquisition or sale of our assets, your information may be transferred as part of that deal. We will notify you (for example, via a message to the email address associated with your account) of any such deal and outline your choices in that event.
 
-I may employ third-party companies and individuals due to the following reasons:
+Protection of KYC Extension and Others: We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our applicable terms of use and other agreements; or protect the rights, property, or safety of KYC Extension, our employees, our users, or others.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Is Personal Information about me secure?
+We will use very diligent efforts to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-Security
+What Personal Information can I access?
+Because the Personal Information you share with us via the Google OAuth authentication process originates in your Gmail account, if you want to modify that Personal Information you may do so through your Gmail account. Alternatively, you can email privacy@KYC Extension.com for access to, or to update or delete, your Personal Information that KYC Extension has collected.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Industry-based compliance
+KYC Extension can be effectively deployed within a HIPAA-compliant environment. We have implemented reasonable and accurate safeguards around your electronic Protected Health Information (ePHI), including the specific safeguards of the HIPAA Security Rule. We implement all types of controls - administrative, physical, and technical - against all types of risks - natural, environmental, and technical.
 
-Links to Other Sites
+Transfer to the U.S. or Other Countries
+We currently use datacenter facilities located exclusively in the United States. Your information will be stored and processed in the United States or other countries where we decide to maintain datacenter facilities in the future. By using the Services, you consent to the transfer of information outside of your country, even if your country has more rigorous data protection standards. For any Personal Information that may be transferred from the European Economic Area, please see the EU Residents section below, including details about our Privacy Shield certification.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+EU Residents
+If you are a resident of the European Union (“EU”), United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”). Please see our EU Privacy Policy available here: https://KYC Extension.com/eu-privacy.
 
-Children’s Privacy
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
-Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+What if I have questions about this policy?
+If you have any questions or concerns regarding our privacy policies, please don’t hesitate to contact us at privacy@KYC Extension.com, and we will try to resolve your concerns.
