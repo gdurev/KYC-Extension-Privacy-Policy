@@ -40,7 +40,5 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 CHANGES TO OUR PRIVACY POLICY
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on May 24, 2018
-
 CONTACT US
 If there are any questions regarding this privacy policy you may contact us by email or by filling out the form.
