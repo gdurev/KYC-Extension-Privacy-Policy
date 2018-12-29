@@ -1,5 +1,5 @@
 KYC Extension Privacy Policy
-Effective date: December 24, 2018
+Effective date: December 28, 2018
 
 Thank you for using KYC Extension! We take your privacy extremely seriously and would like to describe how we collect, use and protect your information when you access our website(s), products, services and applications (collectively, the “Services”).
 
